@@ -1,7 +1,6 @@
 # When done, submit this entire file to the autograder.
 
 # Part 1
-
 def sum arr
   # YOUR CODE HERE
   if arr.length == 0
